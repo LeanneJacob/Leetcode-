@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LeanneJacob/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/LeanneJacob/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LeanneJacob/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/LeanneJacob/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0143-reorder-list) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/LeanneJacob/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
