@@ -7,12 +7,14 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/LeanneJacob/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/LeanneJacob/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/LeanneJacob/Leetcode-/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LeanneJacob/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/LeanneJacob/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/LeanneJacob/Leetcode-/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
