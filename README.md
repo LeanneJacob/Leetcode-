@@ -21,9 +21,11 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LeanneJacob/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/LeanneJacob/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/LeanneJacob/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/LeanneJacob/Leetcode-/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0143-reorder-list) |
@@ -46,4 +48,16 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/LeanneJacob/Leetcode-/tree/master/0074-search-a-2d-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/LeanneJacob/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/LeanneJacob/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/LeanneJacob/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
