@@ -60,4 +60,20 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LeanneJacob/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
