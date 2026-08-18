@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LeanneJacob/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/LeanneJacob/Leetcode-/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/LeanneJacob/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LeanneJacob/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
@@ -38,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/LeanneJacob/Leetcode-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0143-reorder-list) |
 ## Stack
