@@ -9,6 +9,7 @@
 | [0074-search-a-2d-matrix](https://github.com/LeanneJacob/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LeanneJacob/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LeanneJacob/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/LeanneJacob/Leetcode-/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
@@ -88,8 +89,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LeanneJacob/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LeanneJacob/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
