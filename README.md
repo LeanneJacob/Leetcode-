@@ -66,10 +66,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/LeanneJacob/Leetcode-/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/LeanneJacob/Leetcode-/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,4 +80,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/LeanneJacob/Leetcode-/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
