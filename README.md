@@ -10,6 +10,7 @@
 | [0074-search-a-2d-matrix](https://github.com/LeanneJacob/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LeanneJacob/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LeanneJacob/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/LeanneJacob/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/LeanneJacob/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
@@ -20,6 +21,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/LeanneJacob/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/LeanneJacob/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LeanneJacob/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/LeanneJacob/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/LeanneJacob/Leetcode-/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
@@ -124,5 +126,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/LeanneJacob/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/LeanneJacob/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/LeanneJacob/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
