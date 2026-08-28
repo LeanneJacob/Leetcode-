@@ -15,6 +15,7 @@
 | [0347-top-k-frequent-elements](https://github.com/LeanneJacob/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/LeanneJacob/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [0908-smallest-range-i](https://github.com/LeanneJacob/Leetcode-/tree/master/0908-smallest-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0013-roman-to-integer](https://github.com/LeanneJacob/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/LeanneJacob/Leetcode-/tree/master/0412-fizz-buzz) |
+| [0908-smallest-range-i](https://github.com/LeanneJacob/Leetcode-/tree/master/0908-smallest-range-i) |
 ## String
 |  |
 | ------- |
