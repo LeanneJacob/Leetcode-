@@ -16,6 +16,7 @@
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/LeanneJacob/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0908-smallest-range-i](https://github.com/LeanneJacob/Leetcode-/tree/master/0908-smallest-range-i) |
+| [0910-smallest-range-ii](https://github.com/LeanneJacob/Leetcode-/tree/master/0910-smallest-range-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/LeanneJacob/Leetcode-/tree/master/0412-fizz-buzz) |
 | [0908-smallest-range-i](https://github.com/LeanneJacob/Leetcode-/tree/master/0908-smallest-range-i) |
+| [0910-smallest-range-ii](https://github.com/LeanneJacob/Leetcode-/tree/master/0910-smallest-range-ii) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [0049-group-anagrams](https://github.com/LeanneJacob/Leetcode-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/LeanneJacob/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0910-smallest-range-ii](https://github.com/LeanneJacob/Leetcode-/tree/master/0910-smallest-range-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -134,4 +137,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LeanneJacob/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0910-smallest-range-ii](https://github.com/LeanneJacob/Leetcode-/tree/master/0910-smallest-range-ii) |
 <!---LeetCode Topics End-->
