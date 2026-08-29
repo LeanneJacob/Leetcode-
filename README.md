@@ -60,6 +60,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/LeanneJacob/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0143-reorder-list) |
 ## Matrix
 |  |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LeanneJacob/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/LeanneJacob/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LeanneJacob/Leetcode-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/LeanneJacob/Leetcode-/tree/master/0412-fizz-buzz) |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0910-smallest-range-ii](https://github.com/LeanneJacob/Leetcode-/tree/master/0910-smallest-range-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/LeanneJacob/Leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
