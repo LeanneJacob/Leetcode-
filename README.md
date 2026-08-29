@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/LeanneJacob/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/LeanneJacob/Leetcode-/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/LeanneJacob/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0908-smallest-range-i](https://github.com/LeanneJacob/Leetcode-/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/LeanneJacob/Leetcode-/tree/master/0910-smallest-range-ii) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/LeanneJacob/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/LeanneJacob/Leetcode-/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LeanneJacob/Leetcode-/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/LeanneJacob/Leetcode-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
