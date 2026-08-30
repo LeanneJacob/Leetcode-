@@ -17,6 +17,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/LeanneJacob/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/LeanneJacob/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/LeanneJacob/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/LeanneJacob/Leetcode-/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/LeanneJacob/Leetcode-/tree/master/0875-koko-eating-bananas) |
@@ -66,6 +67,7 @@
 | [0020-valid-parentheses](https://github.com/LeanneJacob/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LeanneJacob/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/LeanneJacob/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/LeanneJacob/Leetcode-/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
@@ -121,6 +123,7 @@
 | [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/LeanneJacob/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/LeanneJacob/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/LeanneJacob/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/LeanneJacob/Leetcode-/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -166,5 +169,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/LeanneJacob/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/LeanneJacob/Leetcode-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
