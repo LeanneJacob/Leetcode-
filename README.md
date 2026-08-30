@@ -59,6 +59,7 @@
 | [0061-rotate-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LeanneJacob/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/LeanneJacob/Leetcode-/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/LeanneJacob/Leetcode-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/LeanneJacob/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/LeanneJacob/Leetcode-/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/LeanneJacob/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/LeanneJacob/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/LeanneJacob/Leetcode-/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LeanneJacob/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/LeanneJacob/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/LeanneJacob/Leetcode-/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
