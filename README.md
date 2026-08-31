@@ -48,6 +48,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/LeanneJacob/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/LeanneJacob/Leetcode-/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/LeanneJacob/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -62,6 +63,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LeanneJacob/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/LeanneJacob/Leetcode-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/LeanneJacob/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/LeanneJacob/Leetcode-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LeanneJacob/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/LeanneJacob/Leetcode-/tree/master/0283-move-zeroes) |
@@ -126,6 +128,7 @@
 | [0001-two-sum](https://github.com/LeanneJacob/Leetcode-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/LeanneJacob/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/LeanneJacob/Leetcode-/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/LeanneJacob/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/LeanneJacob/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/LeanneJacob/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
@@ -177,4 +180,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/LeanneJacob/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/LeanneJacob/Leetcode-/tree/master/0739-daily-temperatures) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/LeanneJacob/Leetcode-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
