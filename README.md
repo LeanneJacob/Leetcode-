@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/LeanneJacob/Leetcode-/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/LeanneJacob/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LeanneJacob/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/LeanneJacob/Leetcode-/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LeanneJacob/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LeanneJacob/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LeanneJacob/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/LeanneJacob/Leetcode-/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
