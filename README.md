@@ -105,6 +105,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/LeanneJacob/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/LeanneJacob/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LeanneJacob/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/LeanneJacob/Leetcode-/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/LeanneJacob/Leetcode-/tree/master/0412-fizz-buzz) |
@@ -152,6 +153,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/LeanneJacob/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LeanneJacob/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/LeanneJacob/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/LeanneJacob/Leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
