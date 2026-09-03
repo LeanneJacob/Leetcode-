@@ -17,6 +17,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LeanneJacob/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/LeanneJacob/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/LeanneJacob/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LeanneJacob/Leetcode-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/LeanneJacob/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/LeanneJacob/Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -33,6 +34,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LeanneJacob/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LeanneJacob/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/LeanneJacob/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/LeanneJacob/Leetcode-/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/LeanneJacob/Leetcode-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/LeanneJacob/Leetcode-/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
@@ -104,6 +106,7 @@
 | [0013-roman-to-integer](https://github.com/LeanneJacob/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LeanneJacob/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/LeanneJacob/Leetcode-/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/LeanneJacob/Leetcode-/tree/master/0412-fizz-buzz) |
 | [0908-smallest-range-i](https://github.com/LeanneJacob/Leetcode-/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/LeanneJacob/Leetcode-/tree/master/0910-smallest-range-ii) |
@@ -125,6 +128,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/LeanneJacob/Leetcode-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/LeanneJacob/Leetcode-/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/LeanneJacob/Leetcode-/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -139,6 +143,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/LeanneJacob/Leetcode-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/LeanneJacob/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/LeanneJacob/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/LeanneJacob/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/LeanneJacob/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/LeanneJacob/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
@@ -153,6 +158,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/LeanneJacob/Leetcode-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/LeanneJacob/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/LeanneJacob/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/LeanneJacob/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0910-smallest-range-ii](https://github.com/LeanneJacob/Leetcode-/tree/master/0910-smallest-range-ii) |
 ## Bucket Sort
